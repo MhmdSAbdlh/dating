@@ -1,0 +1,108 @@
+body{
+    background-color: darkred ;
+}
+
+#title{
+    color: blanchedalmond;
+    font-weight: bolder;
+    font-size: 30px ;
+    margin: 2% 5% 0 5%;
+    border-bottom: 5px solid tomato;
+    display: block;
+}
+
+#sub-title{
+    color: blanchedalmond;
+    font-weight: bold;
+    font-size: 25px ;
+    margin: 2% 5% 0 5%;
+}
+
+#label1{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    margin-top: 2%;
+    color: wheat;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#label2{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    margin-top: 5%;
+    color: wheat;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.textField1{
+    margin-left: 5px;
+    margin-top: 5%;
+    height: 40px;
+    color: darkred;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    width: 70px;
+    background-color: wheat;
+    border-radius: 5px;
+    border-color:black;
+    border-width: 1px;
+}
+
+#switchN{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    height: 50px;
+    width: 150px;
+    font-size: 20px;
+    font-weight: bolder;
+    color: floralwhite;
+    background-color: firebrick;
+    border-radius: 5px;
+    border-color:black;
+    border-width: 1px;
+    transition: all 0.2s ease-in-out;
+}
+
+#switchN:hover{
+    box-shadow: 0px 0px 20px wheat;
+}
+
+#shoudI{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    height: 50px;
+    width: 150px;
+    font-size: 20px;
+    font-weight: bolder;
+    color: darkred;
+    border-radius: 5px;
+    border-color:black;
+    border-width: 1px;
+    transition: all 0.2s ease-in-out;
+}
+
+#shoudI:hover{
+    box-shadow: 0px 0px 20px wheat;
+}
+
+#credit{
+    width: 100%;
+    color: white;
+    font-style: italic;
+    font-size: 12px;
+    text-align: center;
+    position: fixed;
+    bottom: 20px;
+    text-shadow: 2px 3px 5px black;
+}
