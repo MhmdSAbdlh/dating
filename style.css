@@ -10,6 +10,14 @@ body{
     border-bottom: 5px solid tomato;
     display: block;
 }
+
+#sub-title{
+    color: blanchedalmond;
+    font-weight: bold;
+    font-size: 25px ;
+    margin: 2% 5% 0 5%;
+}
+
 #label1{
     margin: auto;
     width: 50%;
@@ -88,13 +96,18 @@ body{
     box-shadow: 0px 0px 20px wheat;
 }
 
+#get-app{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+}
+
 #credit{
     width: 100%;
     color: white;
     font-style: italic;
     font-size: 12px;
     text-align: center;
-    position: fixed;
-    bottom: 20px;
     text-shadow: 2px 3px 5px black;
 }
