@@ -8,6 +8,6 @@ Function:
 	2- An alert appear to tell you the result
 	
 Website:
-	https://mhmdsabdlh.github.io/shouldidatehere
+	https://mhmdsabdlh.github.io/dating
 
 Created and Designed by MhmdSAbdlh
